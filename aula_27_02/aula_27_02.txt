@@ -1,0 +1,51 @@
+
+
+Três maneiras se de utilizar o CSS:
+
+- inline
+- external
+- internal
+
+Por que o nome tem que ser index.html?
+
+Por se um modelo padrao
+
+Qual a tecla para identar?
+
+Shift + Alt + f
+
+Qual a tecla que você centralizar tudo em uma tela só?
+
+ALT + z
+
+Tag "mãe"
+
+Refere-se a tag em que os elementos estão encapsulados
+
+Tag <b> : BOLD
+
+Caso você não feche a tag, ela manterá como bold todo o texto
+
+Qualquer escrita padrão dentro de uma página web é de 16 px
+
+normalize.css: nesse site você obtem o padrao de css independente do browser, pois esses usam padões distintos.
+Devemos usar ela como css external
+
+Dentro de um atributo do html você tem a propriedade:valor
+
+NO CSS usamos o termo seletor
+
+Temos 3 manerias de usar o CSS:
+
+- Inline: usando o style atributo dentro dos elementos html
+- Interno: usando um style elemento na head da seção
+- Externo: usando um link elemento para vincular a um arquivo CSS Externo
+
+CTRL + espaço ele mostra opções para caminhos de arquivos
+
+Paramos em HTML e CSS
+
+
+
+
+
