@@ -1,0 +1,47 @@
+div {
+    border: 2px solid red;
+    width: 50px;
+    height: 50px;
+    /* position: relative;
+    top: 10px; */
+
+}
+
+.posicao{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.posicao2{
+    position: fixed;
+}
+
+.posicao3{
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
+
+span {
+    border: 2px black solid;
+    width: 50px;
+    height: 50px;
+}
+
+body{
+    height: 200vh;
+}
+
+.box1{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 500 px;
+}
+
+.box2{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+}
