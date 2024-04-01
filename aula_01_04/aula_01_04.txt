@@ -1,0 +1,11 @@
+- criar cada usuário
+- entrar nesse usuário e criar a pasta .ssh
+- ainda nesse usuário, criar ssh-keygen
+- mv <nomedado>.pub authorized_keys (estou apenas renomeando os arquivos)
+- mv authorized_keys .ssh (aqui eu estou na pasta home)
+- depois de criar todos os usuarios e as duas keys voltar o ubuntu
+- sudo su
+- cd /home
+- mv <nomeusuario>/<nomedado> ubuntu
+- chmod 644 ubuntu/<nomedado>
+ 
